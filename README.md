@@ -99,7 +99,7 @@ I'm always interested in connecting with other developers, technology enthusiast
 
 Whether it's discussing technology, collaborating on projects, sharing knowledge, or exploring opportunities, I'd love to connect.
 
-- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/troy-banda-772b51241)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/troy-banda-772b51241/)
 - 🌐 Portfolio: [Visit my portfolio](#)
 - 📧 Email: tenguletroy@gmail.com
 
